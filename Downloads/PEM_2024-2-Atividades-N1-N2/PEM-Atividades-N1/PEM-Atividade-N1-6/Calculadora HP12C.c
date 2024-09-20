@@ -2,7 +2,7 @@
 Disciplina: Programaçao Estruturada e Modular
 Prof. Carlos Veríssimo                                    
 --------------------------------------------------------
-Objetivo do Programa: Tabuleiro de Xaderz: Calculadora HP12C
+Objetivo do Programa: Calculadora HP12C
 Data - 20/09/2024
 Autor: Júlio César Santana - RA: 2040482312048
 Stephanie Caroline Amarante - RA: 2040482222049
