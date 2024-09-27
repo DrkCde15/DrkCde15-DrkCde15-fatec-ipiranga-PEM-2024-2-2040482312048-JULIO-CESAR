@@ -3,9 +3,9 @@ Prof. Carlos Veríssimo
 --------------------------------------------------------
 Objetivo do Programa: Bubble Sort-Implementação 
 Data - 27/09/2024                                                
-Autores: Julio Cesar Santana - RA 2040482312048 */
+Autores: Julio Cesar Santana - RA 2040482312048 
 
---------------------------------------------------------
+--------------------------------------------------------*/
 #include <stdio.h>
 
 // Função para trocar dois elementos de lugar
