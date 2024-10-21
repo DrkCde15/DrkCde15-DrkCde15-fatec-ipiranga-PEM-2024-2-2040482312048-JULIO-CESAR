@@ -1,7 +1,7 @@
 /* Disciplina: Programaçao Estruturada e Modular
 Prof. Carlos Veríssimo                                    
 --------------------------------------------------------
-Objetivo do Programa: Manipulação de struct 
+Objetivo do Programa: Loja de Produtos eletrônicos 
 Data - 21/10/2024                                                
 Autores: Julio Cesar Santana - RA 2040482312048
          Stephanie Carolline Amarante - RA 2040482222049
