@@ -2,7 +2,7 @@
 Prof. Carlos Veríssimo                                    
 --------------------------------------------------------
 Objetivo do Programa: Utilizando ponteiros 
-Data - 21/10/2024                                                
+Data - 05/11/2024                                                
 Autores: Julio Cesar Santana - RA 2040482312048
          Stephanie Carolline Amarante - RA 2040482222049
 --------------------------------------------------------*/
